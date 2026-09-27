@@ -51,7 +51,7 @@ Configure a secure AWS-hosted static website while preventing direct public acce
 * [Deployment guide](docs/deployment-guide.md)
 * [Documentation index](docs/README.md)
 * [Static website file](index.html)
-
+* [Validation screenshots](screenshots/README.md)
 ## Status
 
 ✅ Completed
