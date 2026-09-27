@@ -1,4 +1,4 @@
-markdown
+
 # AWS Cloud Security Lab – Deployment Guide
 
 ## Prerequisites
